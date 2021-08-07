@@ -1,0 +1,1 @@
+{"version":3,"sources":["toggle-user-state.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"toggle-user-state.4c13a17e.js","sourceRoot":"..\\src","sourcesContent":["console.log(\"This is message from task 2\");\r\n"]}
